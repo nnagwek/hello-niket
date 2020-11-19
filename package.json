@@ -1,0 +1,26 @@
+{
+  "name": "hello-niket",
+  "version": "1.0.0",
+  "description": "Say hello to Niket",
+  "main": "index.js",
+  "dependencies": {
+    "hello-niket": "file:../hello-niket",
+    "jshint": "^2.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Niket N",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnagwek/hello-niket.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nnagwek/hello-niket/issues"
+  },
+  "homepage": "https://github.com/nnagwek/hello-niket#readme"
+}
